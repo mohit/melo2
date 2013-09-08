@@ -1,0 +1,29 @@
+{
+  "name": "melo2",
+  "version": "0.0.1",
+  "description": "Small subset of the Meaningful Location project to combine Moves and Foursquare data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m0hit/melo2.git"
+  },
+  "keywords": [
+    "location",
+    "foursquare",
+    "moves"
+  ],
+  "author": "m0hit",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/m0hit/melo2/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "moves-api": "0.0.2",
+    "foursquare": "0.0.1",
+    "understream": "~0.4.7"
+  }
+}
